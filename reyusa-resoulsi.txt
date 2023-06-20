@@ -3,3 +3,4 @@ Planning saya
 -Mempelajari full stack dev
 -Membuat Portfolio
 -Mengembangkan skill
+-membuat website
